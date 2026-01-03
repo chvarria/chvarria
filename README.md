@@ -28,7 +28,7 @@ I take ownership across the entire product lifecycle — from **problem discover
 
 ---
 
-## 🇪🇸 Sobre mí
+## 🇲🇽 Sobre mí
 
 > *Construyo productos escalables con impacto real en el negocio.*
 
